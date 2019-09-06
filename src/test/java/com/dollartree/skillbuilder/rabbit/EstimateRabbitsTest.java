@@ -38,7 +38,7 @@ public class EstimateRabbitsTest extends JUnitStories {
 
     @Override
     protected List<String> storyPaths() {
-        return asList(STORY_2);
+        return asList(STORY_1);
     }
 
 }
